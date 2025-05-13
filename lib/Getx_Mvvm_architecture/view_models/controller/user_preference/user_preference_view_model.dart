@@ -1,5 +1,4 @@
 
-import 'package:getx/Getx/Getx_Mvvm_architecture/repository/login_repository/login_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:get/get.dart';
 

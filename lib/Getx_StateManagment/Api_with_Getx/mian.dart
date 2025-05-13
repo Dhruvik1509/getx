@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/Getx_StateManagment/Api_with_Getx/homescreen.dart';
+import 'package:getx/Getx_StateManagment/Api_with_Getx/homescreen.dart';
 
 void main() => runApp(MyApp());
 

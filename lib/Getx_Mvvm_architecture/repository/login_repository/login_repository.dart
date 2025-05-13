@@ -1,5 +1,5 @@
-import 'package:getx/Getx/Getx_Mvvm_architecture/data/network/network_api_services.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/app_url/app_url.dart';
+import 'package:getx/Getx_Mvvm_architecture/data/network/network_api_services.dart';
+import 'package:getx/Getx_Mvvm_architecture/res/app_url/app_url.dart';
 
 class LoginRepository {
   final _apiservice = NetworkApiScrevices();

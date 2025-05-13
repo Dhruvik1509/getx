@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/repository/login_repository/login_repository.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/utils/utils.dart';
+import 'package:getx/Getx_Mvvm_architecture/utils/utils.dart';
+
+import '../../../repository/login_repository/login_repository.dart';
 
 class LoginViewController extends GetxController {
   final _api = LoginRepository();

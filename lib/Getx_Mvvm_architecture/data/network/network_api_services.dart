@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/data/app_exceptions.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/data/network/base_api_services.dart';
+import 'package:getx/Getx_Mvvm_architecture/data/app_exceptions.dart';
+import 'package:getx/Getx_Mvvm_architecture/data/network/base_api_services.dart';
 import 'package:http/http.dart' as http;
 
 class NetworkApiScrevices extends BaseapiServices {

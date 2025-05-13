@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/components/general_exception_widget.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/components/internet_exception_widget.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/components/roundbutton.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/utils/utils.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/view_models/services/splash_services.dart';
+import 'package:getx/Getx_Mvvm_architecture/view_models/services/splash_services.dart';
 
 class MvvmSplashscreen extends StatefulWidget {
   const MvvmSplashscreen({super.key});

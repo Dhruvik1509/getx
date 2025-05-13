@@ -2,9 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import 'package:getx/Getx/Getx_StateManagment/getxExample4/counter_controller.dart';
-import 'package:getx/Getx/Getx_StateManagment/imagePiker/counter_controller.dart';
+import 'package:getx/Getx_StateManagment/imagePiker/counter_controller.dart';
 
 class HomeScreen5 extends StatefulWidget {
   const HomeScreen5({super.key});

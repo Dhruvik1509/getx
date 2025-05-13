@@ -1,4 +1,4 @@
-import 'package:getx/Getx/Getx_Mvvm_architecture/data/response/staus.dart';
+import 'package:getx/Getx_Mvvm_architecture/data/response/staus.dart';
 
 class ApiResponse<T> {
   Status? status;

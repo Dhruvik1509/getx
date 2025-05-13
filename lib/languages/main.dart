@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/languages/homeview.dart';
-import 'package:getx/Getx/languages/languages.dart';
+
+
+import 'homeview.dart';
+import 'languages.dart';
 
 void main() => runApp(MyApp());
 

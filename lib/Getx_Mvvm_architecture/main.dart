@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/getx_localization/languges.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/routes/routes.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/view/mvvmSplashscreen.dart';
+import 'package:getx/Getx_Mvvm_architecture/res/getx_localization/languges.dart';
+import 'package:getx/Getx_Mvvm_architecture/res/routes/routes.dart';
+import 'package:getx/Getx_Mvvm_architecture/view/mvvmSplashscreen.dart';
 
 void main() => runApp(MyApp());
 

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:getx/Getx/utils/secodescreen.dart';
 
 class Homescreen extends StatefulWidget {
   const Homescreen({super.key});

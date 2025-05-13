@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/colors/app_colors.dart';
+import 'package:getx/Getx_Mvvm_architecture/res/colors/app_colors.dart';
 
 class GeneralExceptionWidget extends StatefulWidget {
   final VoidCallback onpress;

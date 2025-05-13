@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/utils/homescreen.dart';
-import 'package:getx/Getx/utils/secodescreen.dart';
+
+
+import 'homescreen.dart';
 
 void main() => runApp(MyApp());
 

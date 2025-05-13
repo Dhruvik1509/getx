@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:get/get_navigation/get_navigation.dart';
-import 'package:getx/Getx/Getx_Mvvm_architecture/res/colors/app_colors.dart';
+import 'package:getx/Getx_Mvvm_architecture/res/colors/app_colors.dart';
 
 class Utils {
   static void fieldFocusChange(

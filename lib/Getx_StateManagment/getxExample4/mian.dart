@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx/Getx/Getx_StateManagment/getxExample3/homescreen.dart';
-import 'package:getx/Getx/Getx_StateManagment/getxExample4/homescreen.dart';
+
+import 'package:getx/Getx_StateManagment/getxExample4/homescreen.dart';
 
 void main() => runApp(MyApp());
 
