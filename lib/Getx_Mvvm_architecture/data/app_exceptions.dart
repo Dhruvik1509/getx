@@ -1,4 +1,3 @@
-
 class AppExceptions implements Exception{
 
   final _message;
